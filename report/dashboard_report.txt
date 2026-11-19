@@ -1,0 +1,31 @@
+VIRTUAL WORK INTERNSHIP – TASK 5
+INTERACTIVE DASHBOARD DEVELOPMENT
+
+Project: Interactive Sales Dashboard
+
+Objective
+To create an interactive dashboard that summarizes sales performance and helps users explore the data.
+
+Tools Used
+Python, Pandas, Streamlit, and Plotly.
+
+Dataset
+The sample dataset contains 12 sales orders from January to April 2026. It includes order date, product, category, region, quantity, sales, and profit.
+
+Dashboard Features
+- KPI cards for total sales, total orders, and total profit.
+- A monthly sales trend chart.
+- Sales comparisons by product and region.
+- Interactive filters for region and category.
+- A table showing the filtered orders.
+
+Key Results
+- Total sales: $17,950
+- Total orders: 12
+- Total profit: $3,590
+
+Conclusion
+The dashboard presents sales information in a clear and interactive format. Users can filter by region and category to explore performance and compare results.
+
+Note
+This project uses sample data created for practice. Replace it with the internship dataset if one has been provided.
